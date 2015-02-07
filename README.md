@@ -41,10 +41,8 @@ Reference in *karma.conf.js*:
 expect({
   name: 'Michel',
   language: 'javascript',
-  tags: [
-    'developer',
-    'gamer'
-]}).toShallowEqual({
+  tags: ['developer', 'gamer']
+}).toShallowEqual({
   name: 'Michel',
   tags: ['developer']
 });
