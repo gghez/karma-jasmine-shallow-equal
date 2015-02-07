@@ -4,7 +4,13 @@ From Michel Salib's implementation for `chai` (https://github.com/michelsalib/ch
 
 Implementation as a karma framework plugin.
 
-## Usage
+## Installation
+
+Direct install:
+
+```
+npm install karma-jasmine-shallow-equal --save-dev
+```
 
 Reference as dev dependencies in *package.json* of your project:
 
