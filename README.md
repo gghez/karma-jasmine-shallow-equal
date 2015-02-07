@@ -1,6 +1,7 @@
 # karma-jasmine-shallow-equal
 
 [![Build Status](https://travis-ci.org/gghez/karma-jasmine-shallow-equal.svg?branch=master)](https://travis-ci.org/gghez/karma-jasmine-shallow-equal)
+[![NPM version](https://badge.fury.io/js/karma-jasmine-shallow-equal.png)](http://badge.fury.io/js/karma-jasmine-shallow-equal)
 
 From Michel Salib's implementation for `chai` (https://github.com/michelsalib/chai-shallow-deep-equal/)
 
