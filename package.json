@@ -1,7 +1,9 @@
 {
   "name": "karma-jasmine-shallow-equal",
   "version": "0.0.1",
+  "description": "Jasmine matcher for testing equality in object graph.",
   "main": "src/index.js",
+  "files": "src/**/*",
   "license": "MIT",
   "repository": "http://github.com/gghez/karma-jasmine-shallow-equal.git",
   "devDependencies": {
