@@ -1,0 +1,16 @@
+{
+  "name": "karma-jasmine-shallow-equal",
+  "version": "0.0.1",
+  "main": "src/index.js",
+  "license": "MIT",
+  "repository": "http://github.com/gghez/karma-jasmine-shallow-equal.git",
+  "devDependencies": {
+    "karma": "~0.12.31",
+    "karma-jasmine": "~0.3.5",
+    "karma-phantomjs-launcher": "~0.1.4",
+    "karma-story-reporter": ""
+  },
+  "scripts": {
+    "test": "./node_modules/karma/bin/karma start"
+  }
+}
