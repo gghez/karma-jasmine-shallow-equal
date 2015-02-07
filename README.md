@@ -50,4 +50,4 @@ expect({
 });
 ```
 
-More example here: https://github.com/michelsalib/chai-shallow-deep-equal/
+More example here: [Unit Tests](test/matcherSpec.js)
