@@ -1,6 +1,6 @@
 {
   "name": "karma-jasmine-shallow-equal",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Jasmine matcher for testing equality in object graph.",
   "main": "src/index.js",
   "files": "src/**/*",
@@ -13,6 +13,6 @@
     "karma-story-reporter": "~0.3.1"
   },
   "scripts": {
-    "test": "./node_modules/karma/bin/karma start"
+    "test": "./node_modules/.bin/karma start"
   }
 }

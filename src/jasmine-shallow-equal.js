@@ -70,8 +70,8 @@
                         try {
                             passed = shallowDeepEqual(expected, actual, '.');
                         }
-                        catch (msg) {
-                            errorMessage = msg;
+                        catch (err) {
+                            errorMessage = err.message;
                         }
                         return {
                             pass: passed,
